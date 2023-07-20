@@ -1,0 +1,54 @@
+body {
+  font-family: 'Caveat', cursive;
+  background-color: #D9D8D7;
+  font-size: 140%;
+}
+
+a {
+    color: #8A8C80;
+}
+
+a:hover {
+    color: #8A8C80;
+}
+
+hr {
+  border: 3;
+  width: 80%;
+  color: #3E4035;
+}
+
+.container-fluid {
+    background-color: transparent;
+    color: #3E4035;
+    border-width: 0px;
+}
+
+.btn {
+    background-color: #3E4035;
+    color: #D9D8D7;
+    font-size: larger;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-alert {
+    background-color: darkred;
+    color: #D9D8D7;
+    font-size: large;
+    text-align: center;
+    width: 60px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+/* Color Theme Swatches in Hex */
+/*.Illustration-1-hex { color: #8A8C80; }
+.Illustration-2-hex { color: #3E4035; }
+.Illustration-3-hex { color: #F2F2F0; }
+.Illustration-4-hex { color: #D9D8D7; }
+.Illustration-5-hex { color: #8C7561; }
+*/

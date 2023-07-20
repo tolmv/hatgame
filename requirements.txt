@@ -1,0 +1,5 @@
+pandas
+numpy
+flask
+pymorphy2
+nltk
